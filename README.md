@@ -1,9 +1,3 @@
-
-
-> 
-
-### [LIVE LINK]()
-
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/DocManager)
