@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/DocManager)
-  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/DocManager)
-  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/DocManager?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/Clothing-Landing-Page)
+  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/Clothing-Landing-Page)
+  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/Clothing-Landing-Page?style=social)
 
 </div>
 <div align="left">
