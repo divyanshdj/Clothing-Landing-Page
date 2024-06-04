@@ -18,7 +18,7 @@
 - **Responsive Design**: Ensures the website looks great on all devices.
 - **Scroll Animations**: Uses AOS for smooth and engaging animations as you scroll.
 - **Bootstrap Framework**: Utilizes Bootstrap for modern and responsive styling.
-- **Interactive Elements**: Engaging UI elements built with JavaScript.
+- **Interactive Elements**: Engaging UI Cards.
 
 </div>
 
