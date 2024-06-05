@@ -11,7 +11,7 @@
 
    It is made by Html, Css, Javascript & Bootstrap with some Scroll Animation Library (AOS) and it is an fully responsive website!
 
-  Explore Here :   <a href="https://clothing-landing-adidas-page.vercel.app/"><strong>➥ Live Demo</strong></a>
+  Explore Here :   <a href="https://clothing-landing-adidas-page.vercel.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 ## Features
 
